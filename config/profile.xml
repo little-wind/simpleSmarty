@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <taglib>
+    <name>websiteName</name>
+    <value>此景、哏美</value>
+  </taglib>
+
+  <taglib>
+    <name>websiteURL</name>
+    <value>http://www.windsmemory.com</value>
+  </taglib>
+</root>
